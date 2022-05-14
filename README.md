@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmed TArek Saad
+- 👋 Hi, I’m @Ahmed Tarek Saad
 - 👀 I’m interested in ...programming skills & new technologies 
 - 🌱 I’m currently learning ...in general  all of programming skills specially (web development)
 - 💞️ I’m looking to collaborate on ...web development stack
